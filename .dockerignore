@@ -1,0 +1,21 @@
+# Local dependencies
+node_modules/
+dist/
+build/
+
+# Local databases
+pb/pb_data/
+pb/pocketbase
+pb_data/
+*.db
+
+# Git files
+.git/
+.gitignore
+
+# Env configs
+.env
+.env.local
+.env.development
+.env.production
+.DS_Store
