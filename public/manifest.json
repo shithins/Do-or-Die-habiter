@@ -1,6 +1,6 @@
 {
-  "name": "Habit Grid",
-  "short_name": "HabitGrid",
+  "name": "Do or Die Habiter",
+  "short_name": "DoOrDieHabiter",
   "description": "Collaborative, offline-first minimalist habit tracker",
   "start_url": "/",
   "display": "standalone",

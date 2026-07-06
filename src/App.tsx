@@ -439,7 +439,7 @@ function App() {
             <div className="logo-box" style={{ display: 'inline-flex', marginBottom: '0.75rem', height: '3rem', width: '3rem', fontSize: '1.25rem' }}>
               HG
             </div>
-            <h2 className="text-2xl font-bold text-white tracking-tight">Habit Grid</h2>
+            <h2 className="text-2xl font-bold text-white tracking-tight">Do or Die Habiter</h2>
             <p className="text-xs text-zinc-400 mt-3">Collaborative offline-first contribution tracker</p>
           </div>
 
@@ -526,7 +526,7 @@ function App() {
             HG
           </div>
           <div>
-            <h1 className="text-base font-bold text-white tracking-tight">Habit Grid</h1>
+            <h1 className="text-base font-bold text-white tracking-tight">Do or Die Habiter</h1>
             <div className="flex items-center">
               {isSyncing ? (
                 <div className="status-badge text-zinc-400">
